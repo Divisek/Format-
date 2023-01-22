@@ -1,0 +1,15 @@
+C:\Users\divoc\OneDrive\Plocha\Format\Format\obj\Debug\net6.0\Format.csproj.AssemblyReference.cache
+C:\Users\divoc\OneDrive\Plocha\Format\Format\obj\Debug\net6.0\Format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divoc\OneDrive\Plocha\Format\Format\obj\Debug\net6.0\Format.AssemblyInfoInputs.cache
+C:\Users\divoc\OneDrive\Plocha\Format\Format\obj\Debug\net6.0\Format.AssemblyInfo.cs
+C:\Users\divoc\OneDrive\Plocha\Format\Format\obj\Debug\net6.0\Format.csproj.CoreCompileInputs.cache
+C:\Users\divoc\OneDrive\Plocha\Format\Format\bin\Debug\net6.0\Format.exe
+C:\Users\divoc\OneDrive\Plocha\Format\Format\bin\Debug\net6.0\Format.deps.json
+C:\Users\divoc\OneDrive\Plocha\Format\Format\bin\Debug\net6.0\Format.runtimeconfig.json
+C:\Users\divoc\OneDrive\Plocha\Format\Format\bin\Debug\net6.0\Format.dll
+C:\Users\divoc\OneDrive\Plocha\Format\Format\bin\Debug\net6.0\Format.pdb
+C:\Users\divoc\OneDrive\Plocha\Format\Format\obj\Debug\net6.0\Format.dll
+C:\Users\divoc\OneDrive\Plocha\Format\Format\obj\Debug\net6.0\refint\Format.dll
+C:\Users\divoc\OneDrive\Plocha\Format\Format\obj\Debug\net6.0\Format.pdb
+C:\Users\divoc\OneDrive\Plocha\Format\Format\obj\Debug\net6.0\Format.genruntimeconfig.cache
+C:\Users\divoc\OneDrive\Plocha\Format\Format\obj\Debug\net6.0\ref\Format.dll
